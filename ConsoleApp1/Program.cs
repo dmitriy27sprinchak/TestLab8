@@ -33,8 +33,7 @@ namespace ConsoleApp1
 
                         Console.WriteLine("You must enter only integer. Try again");
 
-                        Thread.Sleep(3000);
-                        Console.Clear();
+                        
 
                         continue;
                     }
